@@ -1,0 +1,45 @@
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent dark color */
+    backdrop-filter: blur(10px);           /* Adds a nice glass effect */
+    padding: 1rem 2rem;
+    color: #f0f0f0;                        /* Light text for contrast */
+    display: flex;
+    justify-content: center;
+    z-index: 10;
+  }
+  
+  .navContent {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #f0f0f0;
+  }
+  
+  .navLinks {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .navLinks li a {
+    text-decoration: none;
+    color: #d0d0d0;                      /* Harmonized color */
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .navLinks li a:hover {
+    color: #ffffff;                       /* Brightens slightly on hover */
+  }

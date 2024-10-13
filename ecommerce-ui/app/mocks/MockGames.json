@@ -1,0 +1,1080 @@
+{
+    "count": 874726,
+    "next": "https://api.rawg.io/api/games?key=3ad09817755d423bb514f5e910fb86e3&ordering=-released&page=2&page_size=8",
+    "previous": null,
+    "results": [
+        {
+            "id": 967261,
+            "slug": "station-to-station-2023",
+            "name": "Station to Station (2023)",
+            "released": "2033-10-03",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/263/2639fd02b2ccf2beab4d9704365c78f8.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 2,
+            "added_by_status": {
+                "yet": 1,
+                "toplay": 1
+            },
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 606,
+            "updated": "2023-12-10T18:32:10",
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 537127,
+                        "image_background": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+                    },
+                    "released_at": "2033-10-03",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation",
+                    "games_count": 71169,
+                    "image_background": "https://media.rawg.io/media/games/c22/c22d804ac753c72f2617b3708a625dec.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle",
+                    "games_count": 97311,
+                    "image_background": "https://media.rawg.io/media/games/948/948fe7f00b6cba8472f5ecd07a455077.jpg"
+                }
+            ],
+            "stores": [
+                {
+                    "id": 966662,
+                    "store": {
+                        "id": 1,
+                        "name": "Steam",
+                        "slug": "steam",
+                        "domain": "store.steampowered.com",
+                        "games_count": 100157,
+                        "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+                    }
+                }
+            ],
+            "clip": null,
+            "tags": [],
+            "esrb_rating": {
+                "id": 3,
+                "name": "Teen",
+                "slug": "teen"
+            },
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/263/2639fd02b2ccf2beab4d9704365c78f8.jpg"
+                },
+                {
+                    "id": 3933187,
+                    "image": "https://media.rawg.io/media/screenshots/cf5/cf5cf152634087935e0ed003dfa55ce5.jpg"
+                },
+                {
+                    "id": 3933188,
+                    "image": "https://media.rawg.io/media/screenshots/d52/d52a2e85227cb824dd1dafd4506f03d0.jpg"
+                },
+                {
+                    "id": 3933189,
+                    "image": "https://media.rawg.io/media/screenshots/521/521ba3a43b39cca9df1526192995dd9f.jpg"
+                },
+                {
+                    "id": 3933190,
+                    "image": "https://media.rawg.io/media/screenshots/008/0084b61910ed199c9ca87637c056ce47.jpg"
+                },
+                {
+                    "id": 3933191,
+                    "image": "https://media.rawg.io/media/screenshots/3f4/3f4701439f69d40520f097cb124fdc7b.jpg"
+                },
+                {
+                    "id": 3933192,
+                    "image": "https://media.rawg.io/media/screenshots/799/7998343ef9976cdd4a3aa4380fa55a18.jpg"
+                }
+            ]
+        },
+        {
+            "id": 236748,
+            "slug": "kmenta",
+            "name": "Kmenta",
+            "released": "2033-01-03",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/screenshots/3be/3be596df93186292773c894b124089bb.jpg",
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 2,
+            "added_by_status": {
+                "owned": 2
+            },
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 99,
+            "updated": "2019-08-28T21:53:31",
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 537127,
+                        "image_background": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+                    },
+                    "released_at": "2033-01-03",
+                    "requirements_en": {
+                        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3 2100 or AMD A8-6500<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 770 VRAM 2GB or AMD Radeon R9 270X VRAM 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> DirectX® 11 supported</li></ul>"
+                    },
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg",
+                    "games_count": 57389,
+                    "image_background": "https://media.rawg.io/media/games/530/5302dd22a190e664531236ca724e8726.jpg"
+                }
+            ],
+            "stores": [
+                {
+                    "id": 233530,
+                    "store": {
+                        "id": 1,
+                        "name": "Steam",
+                        "slug": "steam",
+                        "domain": "store.steampowered.com",
+                        "games_count": 100157,
+                        "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+                    }
+                }
+            ],
+            "clip": null,
+            "tags": [
+                {
+                    "id": 31,
+                    "name": "Singleplayer",
+                    "slug": "singleplayer",
+                    "language": "eng",
+                    "games_count": 228840,
+                    "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+                },
+                {
+                    "id": 40847,
+                    "name": "Steam Achievements",
+                    "slug": "steam-achievements",
+                    "language": "eng",
+                    "games_count": 40294,
+                    "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+                },
+                {
+                    "id": 24,
+                    "name": "RPG",
+                    "slug": "rpg",
+                    "language": "eng",
+                    "games_count": 22140,
+                    "image_background": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg"
+                },
+                {
+                    "id": 11669,
+                    "name": "stats",
+                    "slug": "stats",
+                    "language": "eng",
+                    "games_count": 5124,
+                    "image_background": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+                },
+                {
+                    "id": 40833,
+                    "name": "Captions available",
+                    "slug": "captions-available",
+                    "language": "eng",
+                    "games_count": 1371,
+                    "image_background": "https://media.rawg.io/media/games/934/9346092ae11bf7582c883869468171cc.jpg"
+                },
+                {
+                    "id": 143,
+                    "name": "RPGMaker",
+                    "slug": "rpgmaker",
+                    "language": "eng",
+                    "games_count": 1384,
+                    "image_background": "https://media.rawg.io/media/screenshots/18e/18ef77d2a8ed1ddb7f1abf358a3c1ea0.jpg"
+                },
+                {
+                    "id": 662,
+                    "name": "RPG Maker",
+                    "slug": "rpg-maker",
+                    "language": "eng",
+                    "games_count": 8664,
+                    "image_background": "https://media.rawg.io/media/screenshots/8ce/8cebeed933d324407ee4544c14a64ebf.jpg"
+                }
+            ],
+            "esrb_rating": null,
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/3be/3be596df93186292773c894b124089bb.jpg"
+                },
+                {
+                    "id": 1609380,
+                    "image": "https://media.rawg.io/media/screenshots/ad6/ad65287aaf48041f334a4543767557b4.jpg"
+                },
+                {
+                    "id": 1609381,
+                    "image": "https://media.rawg.io/media/screenshots/4ec/4ecc56b2ec30eaaec24fef00da367e08.jpg"
+                },
+                {
+                    "id": 1609382,
+                    "image": "https://media.rawg.io/media/screenshots/0ae/0aef2eb42c5ef5125c341bd9eca01a73.jpg"
+                },
+                {
+                    "id": 1609383,
+                    "image": "https://media.rawg.io/media/screenshots/b64/b64d958f8395a78b8b7f8d82b89a4e40.jpg"
+                },
+                {
+                    "id": 1609384,
+                    "image": "https://media.rawg.io/media/screenshots/3be/3be596df93186292773c894b124089bb.jpg"
+                }
+            ]
+        },
+        {
+            "id": 990188,
+            "slug": "play-drift-boss-game-online",
+            "name": "Play Drift Boss game online",
+            "released": "2031-03-15",
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "updated": "2024-10-10T11:24:00",
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [],
+            "parent_platforms": [],
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action",
+                    "games_count": 182689,
+                    "image_background": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg"
+                },
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing",
+                    "games_count": 24991,
+                    "image_background": "https://media.rawg.io/media/games/82e/82eeea65ebb047cc7f366faf2fb062b6.jpg"
+                }
+            ],
+            "stores": [],
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "short_screenshots": []
+        },
+        {
+            "id": 953929,
+            "slug": "test-test-game",
+            "name": "test test game",
+            "released": "2030-05-05",
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "updated": "2023-04-09T21:04:03",
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [],
+            "parent_platforms": [],
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie",
+                    "games_count": 69982,
+                    "image_background": "https://media.rawg.io/media/games/0be/0bea0a08a4d954337305391b778a7f37.jpg"
+                }
+            ],
+            "stores": [],
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "short_screenshots": []
+        },
+        {
+            "id": 336646,
+            "slug": "white-heaven",
+            "name": "White Heaven",
+            "released": "2030-01-01",
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 1,
+            "added_by_status": {
+                "owned": 1
+            },
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "updated": "2019-06-26T05:34:48",
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 537127,
+                        "image_background": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+                    },
+                    "released_at": "2030-01-01",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action",
+                    "games_count": 182685,
+                    "image_background": "https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg"
+                }
+            ],
+            "stores": [],
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "short_screenshots": []
+        },
+        {
+            "id": 336284,
+            "slug": "tianxia",
+            "name": "TianXia",
+            "released": "2030-01-01",
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 2,
+            "added_by_status": {
+                "owned": 1,
+                "toplay": 1
+            },
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "updated": "2019-06-26T02:20:03",
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 77363,
+                        "image_background": "https://media.rawg.io/media/games/c89/c89ca70716080733d03724277df2c6c7.jpg"
+                    },
+                    "released_at": "2030-01-01",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                },
+                {
+                    "platform": {
+                        "id": 21,
+                        "name": "Android",
+                        "slug": "android",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 52391,
+                        "image_background": "https://media.rawg.io/media/games/fc3/fc30790a3b3c738d7a271b02c1e26dc2.jpg"
+                    },
+                    "released_at": "2030-01-01",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 8,
+                        "name": "Android",
+                        "slug": "android"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg",
+                    "games_count": 57389,
+                    "image_background": "https://media.rawg.io/media/games/530/5302dd22a190e664531236ca724e8726.jpg"
+                },
+                {
+                    "id": 59,
+                    "name": "Massively Multiplayer",
+                    "slug": "massively-multiplayer",
+                    "games_count": 3792,
+                    "image_background": "https://media.rawg.io/media/games/d07/d0790809a13027251b6d0f4dc7538c58.jpg"
+                }
+            ],
+            "stores": [],
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "short_screenshots": []
+        },
+        {
+            "id": 336262,
+            "slug": "the-drowning",
+            "name": "The Drowning",
+            "released": "2030-01-01",
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 0,
+            "added_by_status": null,
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "updated": "2019-06-26T02:08:07",
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 77363,
+                        "image_background": "https://media.rawg.io/media/games/c89/c89ca70716080733d03724277df2c6c7.jpg"
+                    },
+                    "released_at": "2030-01-01",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                },
+                {
+                    "platform": {
+                        "id": 21,
+                        "name": "Android",
+                        "slug": "android",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 52391,
+                        "image_background": "https://media.rawg.io/media/games/fc3/fc30790a3b3c738d7a271b02c1e26dc2.jpg"
+                    },
+                    "released_at": "2030-01-01",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 8,
+                        "name": "Android",
+                        "slug": "android"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action",
+                    "games_count": 182685,
+                    "image_background": "https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter",
+                    "games_count": 59520,
+                    "image_background": "https://media.rawg.io/media/games/5c0/5c0dd63002cb23f804aab327d40ef119.jpg"
+                }
+            ],
+            "stores": [],
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "short_screenshots": []
+        },
+        {
+            "id": 336027,
+            "slug": "stalin-vs-martians-3",
+            "name": "Stalin vs. Martians 3",
+            "released": "2030-01-01",
+            "tba": false,
+            "background_image": null,
+            "rating": 0.0,
+            "rating_top": 0,
+            "ratings": [],
+            "ratings_count": 0,
+            "reviews_text_count": 0,
+            "added": 1,
+            "added_by_status": {
+                "owned": 1
+            },
+            "metacritic": null,
+            "playtime": 0,
+            "suggestions_count": 0,
+            "updated": "2019-06-26T00:02:52",
+            "user_game": null,
+            "reviews_count": 0,
+            "community_rating": 0,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 537127,
+                        "image_background": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+                    },
+                    "released_at": "2030-01-01",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy",
+                    "games_count": 57630,
+                    "image_background": "https://media.rawg.io/media/games/c22/c22d804ac753c72f2617b3708a625dec.jpg"
+                }
+            ],
+            "stores": [],
+            "clip": null,
+            "tags": [],
+            "esrb_rating": null,
+            "short_screenshots": []
+        }
+    ],
+    "seo_title": "All Games",
+    "seo_description": "",
+    "seo_keywords": "",
+    "seo_h1": "All Games",
+    "noindex": false,
+    "nofollow": false,
+    "description": "",
+    "filters": {
+        "years": [
+            {
+                "from": 2020,
+                "to": 2024,
+                "filter": "2020-01-01,2024-12-31",
+                "decade": 2020,
+                "years": [
+                    {
+                        "year": 2024,
+                        "count": 13020,
+                        "nofollow": false
+                    },
+                    {
+                        "year": 2023,
+                        "count": 61954,
+                        "nofollow": false
+                    },
+                    {
+                        "year": 2022,
+                        "count": 168176,
+                        "nofollow": false
+                    },
+                    {
+                        "year": 2021,
+                        "count": 158702,
+                        "nofollow": false
+                    },
+                    {
+                        "year": 2020,
+                        "count": 121369,
+                        "nofollow": false
+                    }
+                ],
+                "nofollow": true,
+                "count": 523221
+            },
+            {
+                "from": 2010,
+                "to": 2019,
+                "filter": "2010-01-01,2019-12-31",
+                "decade": 2010,
+                "years": [
+                    {
+                        "year": 2019,
+                        "count": 73691,
+                        "nofollow": false
+                    },
+                    {
+                        "year": 2018,
+                        "count": 67946,
+                        "nofollow": false
+                    },
+                    {
+                        "year": 2017,
+                        "count": 54591,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2016,
+                        "count": 40245,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2015,
+                        "count": 25898,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2014,
+                        "count": 15361,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2013,
+                        "count": 6342,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2012,
+                        "count": 5389,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2011,
+                        "count": 4320,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2010,
+                        "count": 3901,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 297684
+            },
+            {
+                "from": 2000,
+                "to": 2009,
+                "filter": "2000-01-01,2009-12-31",
+                "decade": 2000,
+                "years": [
+                    {
+                        "year": 2009,
+                        "count": 3120,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2008,
+                        "count": 2042,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2007,
+                        "count": 1597,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2006,
+                        "count": 1309,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2005,
+                        "count": 1198,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2004,
+                        "count": 1191,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2003,
+                        "count": 1175,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2002,
+                        "count": 1027,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2001,
+                        "count": 1148,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 2000,
+                        "count": 1053,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 14860
+            },
+            {
+                "from": 1990,
+                "to": 1999,
+                "filter": "1990-01-01,1999-12-31",
+                "decade": 1990,
+                "years": [
+                    {
+                        "year": 1999,
+                        "count": 813,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1998,
+                        "count": 753,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1997,
+                        "count": 883,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1996,
+                        "count": 793,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1995,
+                        "count": 879,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1994,
+                        "count": 843,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1993,
+                        "count": 764,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1992,
+                        "count": 674,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1991,
+                        "count": 594,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1990,
+                        "count": 546,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 7542
+            },
+            {
+                "from": 1980,
+                "to": 1989,
+                "filter": "1980-01-01,1989-12-31",
+                "decade": 1980,
+                "years": [
+                    {
+                        "year": 1989,
+                        "count": 442,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1988,
+                        "count": 326,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1987,
+                        "count": 348,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1986,
+                        "count": 254,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1985,
+                        "count": 231,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1984,
+                        "count": 186,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1983,
+                        "count": 211,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1982,
+                        "count": 153,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1981,
+                        "count": 66,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1980,
+                        "count": 35,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 2252
+            },
+            {
+                "from": 1970,
+                "to": 1979,
+                "filter": "1970-01-01,1979-12-31",
+                "decade": 1970,
+                "years": [
+                    {
+                        "year": 1979,
+                        "count": 15,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1978,
+                        "count": 17,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1977,
+                        "count": 13,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1976,
+                        "count": 7,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1975,
+                        "count": 3,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1974,
+                        "count": 2,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1973,
+                        "count": 1,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1972,
+                        "count": 2,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1971,
+                        "count": 6,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1970,
+                        "count": 1,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 67
+            },
+            {
+                "from": 1960,
+                "to": 1969,
+                "filter": "1960-01-01,1969-12-31",
+                "decade": 1960,
+                "years": [
+                    {
+                        "year": 1962,
+                        "count": 1,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 1
+            },
+            {
+                "from": 1950,
+                "to": 1959,
+                "filter": "1950-01-01,1959-12-31",
+                "decade": 1950,
+                "years": [
+                    {
+                        "year": 1958,
+                        "count": 1,
+                        "nofollow": true
+                    },
+                    {
+                        "year": 1954,
+                        "count": 1,
+                        "nofollow": true
+                    }
+                ],
+                "nofollow": true,
+                "count": 2
+            }
+        ]
+    },
+    "nofollow_collections": [
+        "stores"
+    ]
+}
