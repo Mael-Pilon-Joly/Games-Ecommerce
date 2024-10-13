@@ -3,7 +3,7 @@
 'use client';
 
 import 'react-multi-carousel/lib/styles.css';
-import HomePageWrapper from './HomePageWrapper';
+import HomePage from '../components/HomePage';
 export interface Game {
   id: number;
   name: string;
@@ -12,6 +12,6 @@ export interface Game {
 }
 
 export default function Page() {
-  return <HomePageWrapper />;
+  return <HomePage />;
 }
 

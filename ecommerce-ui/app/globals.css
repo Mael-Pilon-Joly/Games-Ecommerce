@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 .background {
-  background-image: url('../public/background-fantasy-knight.png');
   background-size: cover;
   background-position: center;
   height: 100vh;
