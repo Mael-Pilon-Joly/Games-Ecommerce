@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className={styles.navContent}>
         <h1 className={styles.logo}>Game Hub</h1>
         <ul className={styles.navLinks}>
-          <li><Link href="/signin">Sign in</Link></li>
+          <li><Link href="/login">Sign in</Link></li>
           <li><Link href="/signup">Sign up</Link></li>
           <li><Link href="/explore">Explore games</Link></li>
           <li><Link href="/about">About us</Link></li>

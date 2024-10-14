@@ -1,0 +1,71 @@
+/* Full-screen background setup */
+.loginPage {
+    background-image: url('../../public/login-viking-background.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Stylized card for the login form */
+  .formCard {
+    margin-top: -35vh; 
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    z-index: 2;
+  }
+  
+  /* Form styling */
+  .formCard h2 {
+    margin-bottom: 1rem;
+    color: #003366;
+  }
+  
+  .formCard input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .formCard button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #003366;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .formCard button:hover {
+    background-color: #002244;
+  }
+
+  /* Links styling */
+.links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.link {
+    color: #fcfcfc;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: #0055a5;
+}

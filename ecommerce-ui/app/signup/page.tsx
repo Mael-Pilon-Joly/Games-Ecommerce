@@ -18,7 +18,7 @@ export default function SignupPage() {
     
         // Check if email is unique
         try {
-            const response = await fetch(`https://localhost:7053/api/auth/check-email?email=${email}`, {
+            const response = await fetch(`https://localhost:5001/api/auth/check-email?email=${email}`, {
                 method: 'GET',
                 headers: { 'Content-Type': 'application/json' },
             });
@@ -42,7 +42,7 @@ export default function SignupPage() {
     
         // Check if username is unique
         try {
-            const response = await fetch(`https://localhost:7053/api/auth/check-username?username=${username}`, {
+            const response = await fetch(`https://localhost:5001/api/auth/check-username?username=${username}`, {
                 method: 'GET',
                 headers: { 'Content-Type': 'application/json' },
             });
@@ -95,7 +95,7 @@ export default function SignupPage() {
     
         // Proceed with sign-up logic
         try {
-          const response = await fetch('https://localhost:7053/api/auth/signup', {
+          const response = await fetch('https://localhost:5001/api/auth/signup', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ email, username, password }),
