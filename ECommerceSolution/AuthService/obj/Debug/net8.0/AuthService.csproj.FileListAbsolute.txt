@@ -116,9 +116,9 @@ C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution
 C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthService.props
 C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\scopedcss\bundle\AuthService.styles.css
+C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\AuthServ.2ED0AEC6.Up2Date
 C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\AuthService.dll
 C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\refint\AuthService.dll
 C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\AuthService.pdb
 C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\AuthService.genruntimeconfig.cache
 C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\ref\AuthService.dll
-C:\Users\peops\OneDrive\Documents\Coding\News Platform\backend\ECommerceSolution\AuthService\obj\Debug\net8.0\AuthServ.2ED0AEC6.Up2Date

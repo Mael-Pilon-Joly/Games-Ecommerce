@@ -3,48 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\models\\ecommerceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\ecommerceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|c:\\users\\peops\\onedrive\\documents\\coding\\news platform\\backend\\ecommercesolution\\authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|solutionrelative:productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\productservice\\productservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{738E2853-932C-4D82-A14D-036CD2BFC868}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\models\\ecommerceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\ecommerceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\authservice\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EC27E3-81F9-418A-A6DB-E03E2A477A39}|AuthService\\AuthService.csproj|solutionrelative:authservice\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +78,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AuthService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AuthService\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T22:51:34.993Z",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "AuthService\\Controllers\\AuthController.cs*",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:04:37.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService\\Program.cs",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Program.cs",
+              "RelativeToolTip": "AuthService\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:30:37.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.csproj",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.csproj",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj",
+              "RelativeToolTip": "AuthService\\AuthService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T20:22:00.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AuthService\\ApplicationDbContext.cs",
@@ -79,90 +127,11 @@
               "RelativeToolTip": "AuthService\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:22:32.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Program.cs",
-              "RelativeDocumentMoniker": "AuthService\\Program.cs",
-              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Program.cs",
-              "RelativeToolTip": "AuthService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:30:37.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthService\\appsettings.json",
-              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\appsettings.json",
-              "RelativeToolTip": "AuthService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T20:20:53.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AuthService\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AuthService\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCsAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T22:04:37.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T20:22:32.534Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthServices.cs",
-              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Services\\AuthServices.cs",
-              "RelativeDocumentMoniker": "AuthService\\Services\\AuthServices.cs",
-              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Services\\AuthServices.cs",
-              "RelativeToolTip": "AuthService\\Services\\AuthServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T22:36:32.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ECommerceUser.cs",
-              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Models\\ECommerceUser.cs",
-              "RelativeDocumentMoniker": "AuthService\\Models\\ECommerceUser.cs",
-              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Models\\ECommerceUser.cs",
-              "RelativeToolTip": "AuthService\\Models\\ECommerceUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:25:29.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthService.http",
-              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.http",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.http",
-              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.http",
-              "RelativeToolTip": "AuthService\\AuthService.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-11T22:27:32.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Dto\\RegisterDto.cs",
               "RelativeDocumentMoniker": "AuthService\\Dto\\RegisterDto.cs",
@@ -170,12 +139,142 @@
               "RelativeToolTip": "AuthService\\Dto\\RegisterDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T22:05:42.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T22:05:42.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:34:59.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T23:23:44.304Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductService\\appsettings.json",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\appsettings.json",
+              "RelativeToolTip": "ProductService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T21:18:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:35:46.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\ProductService.csproj",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.csproj",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\ProductService.csproj",
+              "RelativeToolTip": "ProductService\\ProductService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T23:23:40.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.csproj",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\ProductService.csproj",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.csproj",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\ProductService.csproj",
+              "RelativeToolTip": "ProductService\\ProductService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T23:46:54.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T22:51:34.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthService\\appsettings.json",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\appsettings.json",
+              "RelativeToolTip": "AuthService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T20:20:53.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Services\\AuthServices.cs",
+              "RelativeToolTip": "AuthService\\Services\\AuthServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:36:32.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ECommerceUser.cs",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Models\\ECommerceUser.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\ECommerceUser.cs",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Models\\ECommerceUser.cs",
+              "RelativeToolTip": "AuthService\\Models\\ECommerceUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:25:29.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.http",
+              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.http",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.http",
+              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.http",
+              "RelativeToolTip": "AuthService\\AuthService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-11T22:27:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "AuthService\\Dto\\LoginDto.cs",
@@ -183,21 +282,7 @@
               "RelativeToolTip": "AuthService\\Dto\\LoginDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T22:10:10.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthService",
-              "DocumentMoniker": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.csproj",
-              "ToolTip": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj",
-              "RelativeToolTip": "AuthService\\AuthService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T20:22:00.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T22:10:10.009Z"
             }
           ]
         }

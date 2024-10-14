@@ -11,6 +11,17 @@ using Microsoft.EntityFrameworkCore.Design;
 using AuthService.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowNextJsApp", policy =>
+    {
+        policy.WithOrigins("http://localhost:3000") 
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 var configuration = builder.Configuration;
 var jwtSettings = configuration.GetSection("JwtSettings");
 var key = Encoding.ASCII.GetBytes(jwtSettings["SecretKey"]);
@@ -48,6 +59,7 @@ builder.Services.AddAuthentication(options =>
    });
 
 var app = builder.Build();
+app.UseCors("AllowNextJsApp");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

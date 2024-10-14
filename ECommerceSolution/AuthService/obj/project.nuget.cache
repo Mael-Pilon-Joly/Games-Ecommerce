@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OXTU0cwinTTA8hKn3Sa5P0jbXNPzAAPl/ksfOgNKa8rlTkSB2WTeRVWb40231Lpu0EHpMO2JseRw96k5KCgKBw==",
+  "dgSpecHash": "ts394LTYqlJ2C9cMx0NQauRVtd1RlyRUUBIX97u4owkEyK33MHjPZ3KJumxNupADqohujytMRSJzNeZzQSpRMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\AuthService\\AuthService.csproj",
+  "projectFilePath": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peops\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\peops\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.10\\microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",

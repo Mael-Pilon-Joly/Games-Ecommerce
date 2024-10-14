@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AuthService.Controllers
 {
+    [Route("api/auth")]
+    [ApiController]
     public class AuthController : Controller
     {
 
@@ -30,7 +32,11 @@ namespace AuthService.Controllers
             var user = new ECommerceUser { UserName = model.Username, Email = model.Email };
             var result = await _userManager.CreateAsync(user, model.Password);
 
-            if (result.Succeeded) return Ok("User created");
+            if (result.Succeeded)
+            {
+                return Ok(new { success = true, message = "User created" });
+            }
+
             return BadRequest(result.Errors);
         }
 
@@ -47,6 +53,28 @@ namespace AuthService.Controllers
 
         }
 
+        // Check if username is unique
+        [HttpGet("check-username")]
+        public async Task<IActionResult> CheckUsername([FromQuery] string username)
+        {
+            var user = await _userManager.FindByNameAsync(username);
+            if (user != null)
+            {
+                return Ok(new { isUnique = false, message = "Username is already taken" });
+            }
+            return Ok(new { isUnique = true, message = "Username is available" });
+        }
 
+        // Check if email is unique
+        [HttpGet("check-email")]
+        public async Task<IActionResult> CheckEmail([FromQuery] string email)
+        {
+            var user = await _userManager.FindByEmailAsync(email);
+            if (user != null)
+            {
+                return Conflict(new { isUnique = false, message = "Email is already registered" });
+            }
+            return Ok(new { isUnique = true, message = "Email is available" });
+        }
     }
 }

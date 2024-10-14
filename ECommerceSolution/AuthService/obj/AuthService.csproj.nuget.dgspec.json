@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\AuthService\\AuthService.csproj": {}
+    "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\AuthService\\AuthService.csproj": {
+    "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\AuthService\\AuthService.csproj",
+        "projectUniqueName": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj",
         "projectName": "AuthService",
-        "projectPath": "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\AuthService\\AuthService.csproj",
+        "projectPath": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\AuthService.csproj",
         "packagesPath": "C:\\Users\\peops\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\AuthService\\obj\\",
+        "outputPath": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\AuthService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peops\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
