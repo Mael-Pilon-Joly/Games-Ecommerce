@@ -25,7 +25,9 @@ export default function HomePage() {
       console.log("useEffect called");
       try {
         if (process.env.NODE_ENV === 'development') {
-          setRecentGames(mockData.results); // Set mock data in development mode
+          console.log("mode dev detected")
+          setRecentGames(mockData.results);
+          console.log("mock data:"+ recentGames) // Set mock data in development mode
           return;
         }
 
@@ -40,6 +42,10 @@ export default function HomePage() {
     }
     fetchRecentGames();
   }, []);
+
+  useEffect(() => {
+    console.log("Updated recentGames:", recentGames);
+  }, [recentGames]);
 
   return (
     <>
@@ -67,75 +73,79 @@ export default function HomePage() {
       </div>
     
     
-      {recentGames && recentGames.length > 0 && (
-         <div className={styles.contentSection}>
-         <h2 className={styles.sectionTitle}>Most Acclaimed Games</h2>
-         <div className={styles.carouselContainer}>
-          <Carousel
-            additionalTransfrom={0}
-             arrows
-             autoPlaySpeed={3000}
-             centerMode={false}
-             className=""
-             containerClass="container-with-dots"
-             dotListClass=""
-             draggable
-             focusOnSelect={false}
-             infinite
-             itemClass=""
-             keyBoardControl
-             minimumTouchDrag={80}
-             pauseOnHover
-             renderArrowsWhenDisabled={false}
-             renderButtonGroupOutside={false}
-             renderDotsOutside={false}
-             responsive={{
-               desktop: {
-                 breakpoint: {
-                   max: 3000,
-                   min: 1024
-                 },
-                 items: 3,
-                 partialVisibilityGutter: 40
-               },
-               mobile: {
-                 breakpoint: {
-                   max: 464,
-                   min: 0
-                 },
-                 items: 1,
-                 partialVisibilityGutter: 30
-               },
-               tablet: {
-                 breakpoint: {
-                   max: 1024,
-                   min: 464
-                 },
-                 items: 2,
-                 partialVisibilityGutter: 30
-               }
-             }}
-             rewind={false}
-             rewindWithAnimation={false}
-             rtl={false}
-             shouldResetAutoplay
-             showDots={false}
-             sliderClass=""
-             slidesToSlide={1}
-             swipeable
-           >
-
-            {recentGames.map((game: any) => (
-              <div key={game.id} className={styles.gameCard}>
-                <img src={game.background_image} alt={game.name} className={styles.gameImage} />
-                <h3>{game.name}</h3>
-                <p>Released on: {game.released}</p>
-              </div>
-            ))}
-          </Carousel>
+      {recentGames && recentGames.length > 0 ? (
+  <div className={styles.contentSection}>
+    <h2 className={styles.sectionTitle}>Most Acclaimed Games</h2>
+    <div className={styles.carouselContainer}>
+      <Carousel
+        additionalTransfrom={0}
+        arrows
+        autoPlaySpeed={3000}
+        centerMode={false}
+        className=""
+        containerClass="container-with-dots"
+        dotListClass=""
+        draggable
+        focusOnSelect={false}
+        infinite
+        itemClass=""
+        keyBoardControl
+        minimumTouchDrag={80}
+        pauseOnHover
+        renderArrowsWhenDisabled={false}
+        renderButtonGroupOutside={false}
+        renderDotsOutside={false}
+        responsive={{
+          desktop: {
+            breakpoint: {
+              max: 3000,
+              min: 1024
+            },
+            items: 3,
+            partialVisibilityGutter: 40
+          },
+          mobile: {
+            breakpoint: {
+              max: 464,
+              min: 0
+            },
+            items: 1,
+            partialVisibilityGutter: 30
+          },
+          tablet: {
+            breakpoint: {
+              max: 1024,
+              min: 464
+            },
+            items: 2,
+            partialVisibilityGutter: 30
+          }
+        }}
+        rewind={false}
+        rewindWithAnimation={false}
+        rtl={false}
+        shouldResetAutoplay
+        showDots={false}
+        sliderClass=""
+        slidesToSlide={1}
+        swipeable
+      >
+        {recentGames.map((game: any) => (
+          <div key={game.id} className={styles.gameCard}>
+            <img src={game.background_image} alt={game.name} className={styles.gameImage} />
+            <h3>{game.name}</h3>
+            <p>Released on: {game.released}</p>
           </div>
-          </div>
-          )}
+        ))}
+      </Carousel>
+    </div>
+  </div>
+  
+  ) : (
+    <div className={styles.fallbackContainer}>
+      <p>No games available to display at the moment. Please check back later.</p>
+    </div>
+  )}
           </>
   );
 }

@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\ProductService.csproj",
+      "projectUniqueName": "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\ProductService\\ProductService.csproj",
       "projectName": "ProductService",
-      "projectPath": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\ProductService.csproj",
+      "projectPath": "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\ProductService\\ProductService.csproj",
       "packagesPath": "C:\\Users\\peops\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peops\\OneDrive\\Documents\\Coding\\News Platform\\backend\\ECommerceSolution\\ProductService\\obj\\",
+      "outputPath": "C:\\Users\\peops\\Documents\\Coding\\ECommerce\\ECommerceSolution\\ProductService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peops\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -460,11 +460,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

@@ -6,7 +6,7 @@
     width: 100%;
     background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent dark color */
     backdrop-filter: blur(10px);           /* Adds a nice glass effect */
-    padding: 1rem 2rem;
+    padding: 1rem 2rem 0.5rem 0rem;
     color: #f0f0f0;                        /* Light text for contrast */
     display: flex;
     justify-content: center;
@@ -20,12 +20,24 @@
     max-width: 1200px;
     justify-content: space-between;
   }
-  
-  .logo {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #f0f0f0;
+
+  .logoContainer {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
   }
+
+  .logo {
+    display: flex-start;
+    margin-right: 0.5rem; /* space between logo and text */
+  }
+  
+  .gamehub {
+    font-size: 1.5rem;
+    color: #ffffff; /* or any color you prefer */
+    font-weight: bold;
+  }
+  
   
   .navLinks {
     list-style: none;

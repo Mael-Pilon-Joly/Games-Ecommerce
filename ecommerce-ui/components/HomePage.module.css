@@ -37,6 +37,7 @@
   
   .heroTitle {
     font-size: 3rem;
+    padding-top: 1rem;
     font-weight: bold;
     color: white;
     margin: 0.5rem 0;
@@ -66,9 +67,12 @@
     width: 100%;
     max-width: 1200px;
     padding-top: 2rem; 
+    margin: 0 auto; /* Center horizontally */
+    display: flex;
+    justify-content: center;
   }
   .gameCard {
-    width: 400px;
+    width: auto;
     height: 300px;
     display: flex;
     flex-direction: column;
@@ -77,6 +81,7 @@
     background-color: #1a1a1a; 
     border-radius: 8px;
     overflow: hidden; 
+    padding: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: white
   }
